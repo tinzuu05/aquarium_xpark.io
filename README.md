@@ -37,7 +37,7 @@ Original team project link - https://github.com/jaylee0857/Xpark (It includes mo
 
 <p>Back-end Details- I used Laravel 6, php 7.3.22 and HeidiSQL to store data</p>
 
-<p>1. Login system, after users log in, it will lead the page to the admin page automatically</p>
+<p>1. Login system, it will lead the page to the admin page automatically after users log in</p>
 <img src="https://github.com/tinzuu05/aquarium_xpark.io/blob/main/readme_images/backend-login.JPG?raw=true">
 
 <p>2. On the admin homepage, there are create, edit, and delete buttons for operating information.  Additionally, I used datatables bootstrap 4 to build the table</p>
