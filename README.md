@@ -1,3 +1,19 @@
+<h1>團體專案-海生館網站</h1>
+<h2>前端-</h2>
+<p>HTML、SASS、SCSS、Javascript，RWD網站前端設計(三種版型-電腦、平板與手機)</p>
+<p>多語言(英文、中文)網站</p>
+<p>SVG網頁動圖製作</p>
+<p>Full Page式網頁，利用tab案件切換新聞與活動資訊</p>
+<p>導入Vue訂票與付款系統</p>
+<p>採用Parallax.js套件製作動畫</p>
+<p>Q&A聊天機器入製作，及時回復客人訊息</p>
+
+<h2>後端-</h2>
+<p>連結SQL資料庫與資料庫規劃</p>
+<p>使用Laravel 6與php 7.3.22作為後端框架</p>
+<p>製作後台CRUD產品與訊息管理</p>
+<p>設定後來登入與註冊系統</p>
+
 <h3>It's a team project about an aquarium, we built it with the information of Xpark and created an illustration style online website.</h3>
 
 <h3>I was in charge of this project from planning, mockup design, front-end to back-end.</h3>
